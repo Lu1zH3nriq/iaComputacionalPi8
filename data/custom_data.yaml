@@ -1,0 +1,9 @@
+# Caminhos para as imagens de treinamento e validação
+train: C:/Users/luiz.mendes/Desktop/ia computacional/yolov5/_data/images/train
+val: C:/Users/luiz.mendes/Desktop/ia computacional/yolov5/_data/images/val
+
+# Número de classes
+nc: 1
+
+# Nomes das classes
+names: ['Luiz Henrique']
